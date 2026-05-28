@@ -19,3 +19,8 @@ else:
 
     print(f"Decimal: {numero}")
     print(f"Binário: {binario}")
+
+#caso1 n=5 bits=4 r=0101
+#caso2 n=15 bits=4 r=1111
+#caso3 n=16 bits=4 r=Overflow
+#caso4 n=255 bits=8 r=11111111
